@@ -61,6 +61,12 @@ Windowsで `python` と打つと、Pythonではなく Microsoft Store の案内�
 - 意味の近さで探す機能（ベクトル検索）はありません。語句の一致だけで探します。
 - 通信方式は標準入出力（同じ端末の中でのやり取り）だけです。
 
+## 根拠（学習）
+
+| 機能 | 裏付けになる学習（発行元・名称・発行日） | 照会先（Credly） |
+|---|---|---|
+| 参照専用・対象フォルダ限定のMCPサーバー（最小権限） | Amazon Web Services Training and Certification「AWS Knowledge: Security Champion - Training Badge」2025年11月10日 | https://www.credly.com/badges/ddab077d-58eb-4807-bec1-69e5c6aeb9a5 |
+
 ## ライセンス
 
 MIT
