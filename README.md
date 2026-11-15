@@ -63,8 +63,9 @@ Windowsで `python` と打つと、Pythonではなく Microsoft Store の案内�
 
 ## 根拠（学習）
 
-| 求められる力 | 機能 | 裏付けになる学習（発行元・名称・発行日） | 照会先（Credly） |
+| 求められる力 | 機能 | 裏付けになる学習（発行元・名称・発行日） | 照会先 |
 |---|---|---|---|
+| 生成AI・LLMの実装（RAG・エージェント・MCP） | 標準入出力のJSON-RPCで、文書の一覧・検索・読み取りの3つの道具を公開するMCPサーバー（`readonly_mcp_server.py` の `handle`・`list_documents`・`search_documents`・`read_document`、`test_client.py`） | Anthropic「Introduction to Model Context Protocol」2026年4月9日 | https://verify.skilljar.com/c/f4mh7a6yywz4 |
 | セキュリティ・ガバナンス | 参照専用・対象フォルダ限定のMCPサーバー（最小権限） | Amazon Web Services Training and Certification「AWS Knowledge: Security Champion - Training Badge」2025年11月10日 | https://www.credly.com/badges/ddab077d-58eb-4807-bec1-69e5c6aeb9a5 |
 
 「求められる力」の分け方は、[プロフィール](https://github.com/takashi-101) の「FDE・AXで求められる力と、その根拠」と同じです。
