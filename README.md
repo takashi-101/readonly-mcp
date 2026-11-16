@@ -1,5 +1,7 @@
 # readonly-mcp
 
+[![tests](https://github.com/takashi-101/readonly-mcp/actions/workflows/tests.yml/badge.svg)](https://github.com/takashi-101/readonly-mcp/actions/workflows/tests.yml)
+
 MCPは共通規格であるがゆえに、1度突破されるとツールを跨いで被害が広がりやすい構造があります。そのため本実装では、参照専用（Read-Only）かつ対象スコープの限定によって破壊的操作を構造的に遮断しています。
 
 ## 概要（30秒で読めます）
